@@ -6,3 +6,7 @@ exts/target/
 core/target/
 dmprinter/target/
 .settings/
+*.iml
+.idea/
+.java-version
+**/dependency-reduced-pom.xml

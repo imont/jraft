@@ -1,0 +1,5 @@
+/Users/romanas/workspace/imont/jraft/jraft-exts/src/test/java/net/data/technology/jraft/extensions/FileBasedServerStateManagerTests.java
+/Users/romanas/workspace/imont/jraft/jraft-exts/src/test/java/net/data/technology/jraft/extensions/BinaryUtilTests.java
+/Users/romanas/workspace/imont/jraft/jraft-exts/src/test/java/net/data/technology/jraft/extensions/H2LogStoreTests.java
+/Users/romanas/workspace/imont/jraft/jraft-exts/src/test/java/net/data/technology/jraft/extensions/GsonSerializationTests.java
+/Users/romanas/workspace/imont/jraft/jraft-exts/src/test/java/net/data/technology/jraft/extensions/FileBasedSequentialLogStoreTests.java

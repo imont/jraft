@@ -1,0 +1,5 @@
+net/data/technology/jraft/extensions/GsonSerializationTests.class
+net/data/technology/jraft/extensions/FileBasedServerStateManagerTests.class
+net/data/technology/jraft/extensions/FileBasedSequentialLogStoreTests.class
+net/data/technology/jraft/extensions/BinaryUtilTests.class
+net/data/technology/jraft/extensions/H2LogStoreTests.class

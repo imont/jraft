@@ -1,0 +1,10 @@
+{
+  "localServerId": 1,
+  "servers": [
+    {
+      "name": "Server 1",
+      "id": 1,
+      "endpoint": "tcp://localhost:9001"
+    }
+  ]
+}

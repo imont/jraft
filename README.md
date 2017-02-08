@@ -1,3 +1,7 @@
+# IMONT Technologies Fork of jraft
+
+Main difference - Java 7 support. Don't ask.
+
 # jraft
 Raft consensus implementation in java
 
